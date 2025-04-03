@@ -5026,11 +5026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50776884867\\Desktop\\Project_Events\\Eveent+.csproj",
+      "projectUniqueName": "C:\\Users\\50776884867\\Desktop\\apieventplus\\Eveent+.csproj",
       "projectName": "Eveent+",
-      "projectPath": "C:\\Users\\50776884867\\Desktop\\Project_Events\\Eveent+.csproj",
+      "projectPath": "C:\\Users\\50776884867\\Desktop\\apieventplus\\Eveent+.csproj",
       "packagesPath": "C:\\Users\\50776884867\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50776884867\\Desktop\\Project_Events\\obj\\",
+      "outputPath": "C:\\Users\\50776884867\\Desktop\\apieventplus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
